@@ -8,7 +8,7 @@ Compiling and Running the Code
 
 
 2. Type `./beamer [n] [L] [EI] [q] <turbo>` into the command line to run the code.  
-   Where n = number of points  
-         L = length of the beam
-         EI = (Young's modulus) * (2nd moment of inertia) 
-         <turbo> = optional argument for running the code faster (1=turbo mode)
+
+Additional Information
+----------------------
+For additional information about the project, see the proj02.pdf file.
