@@ -9,6 +9,8 @@ Compiling and Running the Code
 
 2. Type `./beamer [n] [L] [EI] [q] <turbo>` into the command line to run the code.  
 
+3. For example `./beamer 20 3 600 1500`
+
 Additional Information
 ----------------------
 For additional information about the project, see the proj02.pdf file.
