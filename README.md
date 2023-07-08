@@ -14,7 +14,7 @@ Files
 `vector.cpp` is teh implementation for the vector class.  
 `timer.hpp` is a timer class to measure wall-clock execution time  
 `init-plot.py` plots the Beam Displacement Analytic Solution  
-`lot-plot.py` plots a log graph of the errors as a function of n
+`lot-plot.py` plots a log graph of the errors as a function of n  
 `runtime-plot.py` plots the Runtime Performance as a Function of n
 
 Compiling and Running the Code
